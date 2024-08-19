@@ -1,0 +1,67 @@
+body {
+    color: white;
+    background:black
+    body {
+        color: white;
+        background: black;
+        margin: 0px;
+        font-family: "Chakra Petch", sans-serif;
+        margin-bottom: 100px;
+    }
+    
+    /* código escondido */
+}
+
+     
+section{
+    background: rgb(red, green, rgb(41, 41, 185));
+padding-bottom: 80px;
+display: flex;
+justify-content: center;}
+font-family: "Anek Devanagari", sans-serif;
+chamada-texto {
+    
+}
+  
+p {
+font-size: 40px;
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+}
+img {
+    height: 200px;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+  }.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* código omitido */
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+
+
+
